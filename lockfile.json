@@ -51,10 +51,10 @@
     "revision": "92877bac7033e409ccfb3f07fe28ef1dfd359457"
   },
   "elixir": {
-    "revision": "1b3ecf7765979a5602bbb8988b8fc0d9f4c887d6"
+    "revision": "94d6471cc8cdfaf2808f6079036ded44a308db41"
   },
   "elm": {
-    "revision": "cf526b48021d2bcffa0075979d0699acda33bad2"
+    "revision": "bd50ccf66b42c55252ac8efc1086af4ac6bab8cd"
   },
   "erlang": {
     "revision": "9d5fd0c329280a156bf7614a49dc5e8c58cc037c"
@@ -69,7 +69,7 @@
     "revision": "f0f2f100952a353e64e26b0fa710b4c296d7af13"
   },
   "fusion": {
-    "revision": "3edfcc45012e37ab370f68009787f9cd18abf7a0"
+    "revision": "19db2f47ba4c3a0f6238d4ae0e2abfca16e61dd6"
   },
   "gdscript": {
     "revision": "2a6abdaa47fcb91397e09a97c7433fd995ea46c6"
@@ -96,7 +96,7 @@
     "revision": "5e66e961eee421786bdda8495ed1db045e06b5fe"
   },
   "haskell": {
-    "revision": "d72f2e42c0d5ccf8e8b1c39e3642428317e8fe02"
+    "revision": "2e6acc02e3f92213576209bf31ddea971b0f45ee"
   },
   "hcl": {
     "revision": "3cb7fc28247efbcb2973b97e71c78838ad98a583"
@@ -144,7 +144,7 @@
     "revision": "0cdeb0e51411a3ba5493662952c3039de08939ca"
   },
   "llvm": {
-    "revision": "d4f61bed8ecb632addcd5e088c4f4cb9c1bf1c5b"
+    "revision": "3b213925b9c4f42c1acfe2e10bfbb438d9c6834d"
   },
   "lua": {
     "revision": "6f5d40190ec8a0aa8c8410699353d820f4f7d7a6"
@@ -219,7 +219,7 @@
     "revision": "05f949d3c1c15e3261473a244d3ce87777374dec"
   },
   "supercollider": {
-    "revision": "c28a0351961fc1fc13dfe78e24d7e05f05649613"
+    "revision": "ac83e9d5ef3a62d2160d0f1e0a64a949ecda1d8b"
   },
   "surface": {
     "revision": "21b7676859c1187645a27ff301f76738af5dfd44"
